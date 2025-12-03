@@ -1,6 +1,0 @@
-Campus Energy Consumption Summary
-================================
-
-Total campus consumption: 14832.28 kWh
-Highest-consuming building: BlockB (5002.31 kWh)
-Peak load time: 2025-11-29 01:00:00 with 12.00 kWh
